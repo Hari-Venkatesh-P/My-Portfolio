@@ -112,6 +112,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
             <Button colored href="https://github.com/Hari-Venkatesh-P/My-Portfolio">GitHub</Button>
+            <Button colored href="https://hari-portfolio.herokuapp.com/">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: 'black'}}>
             </CardMenu>
