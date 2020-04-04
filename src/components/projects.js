@@ -60,10 +60,23 @@ class Projects extends Component {
         <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.worldvectorlogo.com/logos/spring-3.svg) center / cover'}} ></CardTitle>
         <CardText className="cardtext" style={{color: 'black',  font: '40px' }}>
         <font size="3" color="black">
-        Backend Services for Simple Student Application using Hibernate and JPA concepts.</font>
+        Backend Services for Simple Student Application using JPA concepts.</font>
         </CardText>
         <CardActions border>
           <Button colored href="https://github.com/Hari-Venkatesh-P/Student-Application-Spring-Backend">GitHub</Button>
+        </CardActions>
+        <CardMenu style={{color: 'black'}}>
+        </CardMenu>
+      </Card>
+      <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.worldvectorlogo.com/logos/spring-3.svg) center / cover'}} ></CardTitle>
+        <CardText className="cardtext" style={{color: 'black',  font: '40px' }}>
+        <font size="3" color="black">
+        A Backend Spring Application integrated with NoSql (MongoDB) performing CRUD Operations.
+        </font>
+        </CardText>
+        <CardActions border>
+          <Button colored href="https://github.com/Hari-Venkatesh-P/BooksRatingApplication">GitHub</Button>
         </CardActions>
         <CardMenu style={{color: 'black'}}>
         </CardMenu>
@@ -124,7 +137,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
             <Button colored href="https://github.com/Hari-Venkatesh-P/My-Portfolio">GitHub</Button>
-            <Button colored href="https://harivenkat-portfolio.herokuapp.com/">Live Demo</Button>
+            <Button colored href="https://harivenkatesh-portfolio.herokuapp.com/">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: 'black'}}>
             </CardMenu>

@@ -20,7 +20,7 @@ class Resume extends Component
             <Education
             edu = "Bachelor of Engineering"
             startYear= "July,2016"
-            endYear="April,2020"
+            endYear="May,2020"
             schoolName="Mepco Schlenk Engineering College,Sivakasi."
             schoolDescription="The Place where I groomed myself as a computer programming personality, with knowledge of developing software applications."
             />
@@ -40,7 +40,7 @@ class Resume extends Component
                     <Skills skill="MySql" progress={65}/>
                     <Skills skill="Angular" progress={30}/>
                     <Skills skill="C#" progress={50}/>
-                    <Skills skill="Flutter" progress={15}/>
+                    <Skills skill="Flutter" progress={5}/>
                     <Skills skill="React" progress={10}/>
           </Cell>
         </Grid>
