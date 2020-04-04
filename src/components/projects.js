@@ -85,6 +85,18 @@ class Projects extends Component {
         <CardMenu style={{color: 'black'}}>
         </CardMenu>
       </Card>
+      <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://colorlib.com/wp/wp-content/uploads/sites/2/angular-logo.png) center / cover'}} ></CardTitle>
+        <CardText className="cardtext" style={{color: 'black',  font: '40px' }}>
+        <font size="3" color="black">
+        Employee Dashbord and Project Tracker, Web Application with Basic Spring Auth Security and Http Interceptors in Angular.</font>
+        </CardText>
+        <CardActions border>
+          <Button colored href="https://github.com/Hari-Venkatesh-P/Employee-Dashboard-and-Project-Tracker">GitHub</Button>
+        </CardActions>
+        <CardMenu style={{color: 'black'}}>
+        </CardMenu>
+      </Card>
       </div>
       )
     } else if(this.state.activeTab === 3) {
@@ -112,7 +124,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
             <Button colored href="https://github.com/Hari-Venkatesh-P/My-Portfolio">GitHub</Button>
-            <Button colored href="https://hari-portfolio.herokuapp.com/">Live Demo</Button>
+            <Button colored href="https://harivenkat-portfolio.herokuapp.com/">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: 'black'}}>
             </CardMenu>
