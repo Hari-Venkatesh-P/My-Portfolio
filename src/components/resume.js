@@ -34,14 +34,15 @@ class Resume extends Component
               jobDescription="GOFRUGAL is a digital-first company offering cloud and mobile ERP solutions to Retail, Restaurant and Distribution businesses. Established in 2004, They help businesses embrace agility and transform digitally to stay competitive in the dynamic market. We help businesses grow with minimal staff, least skills along with 100% accurate and reliable solutions." />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2 className="resumeHeading">Skill Sets &nbsp;<i class="fa fa-laptop" aria-hidden="true"></i></h2>
-                    <Skills skill="Core Java" progress={65}/>
-                    <Skills skill="Spring Boot" progress={60}/>
-                    <Skills skill="Postgres" progress={50}/>
-                    <Skills skill="MySql" progress={65}/>
-                    <Skills skill="Angular" progress={30}/>
-                    <Skills skill="C#" progress={50}/>
-                    <Skills skill="Flutter" progress={5}/>
-                    <Skills skill="React" progress={10}/>
+                    <Skills skill="Core Java" progress={60}/>
+                    <Skills skill="Spring Boot" progress={50}/>
+                    <Skills skill="Angular" progress={40}/>
+                    <Skills skill="MySql" progress={60}/>
+                    <Skills skill="Node JS" progress={30}/>
+                    <Skills skill="Postgres" progress={20}/>
+                    <Skills skill="MongoDB" progress={30}/>
+                    <Skills skill="C#" progress={30}/>
+                    <Skills skill="Flutter" progress={10}/>
           </Cell>
         </Grid>
       </div>

@@ -11,7 +11,7 @@ class LandingPage extends Component {
             <img src= {mypic} alt="avatar" className="avatar-img" />
             <div className="banner-text">
               <h1> Java Developer</h1>
-              <h6>Core Java || Spring Boot || J2EE ||  Angular || Postgres || MYSQL || DLLs || Flutter</h6><br></br>
+              <h6>Core Java || Spring Boot ||  Angular ||  MYSQL || NODE Js || DLLs </h6><br></br>
             </div>
           </Cell>
         </Grid>
