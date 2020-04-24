@@ -30,7 +30,13 @@ class Contacts extends Component
                         harivenkat1110@gmail.com
                       </ListItemContent>
                     </ListItem>
-    
+                    <ListItem>
+                      <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton',textDecoration:'none'}}>
+                        <i className="fa fa-linkedin" aria-hidden="true"/>
+                        <a href={"https://www.linkedin.com/in/hari-venkatesh-98608b190/"}>Hari Venkatesh P</a>
+                      </ListItemContent>
+                    </ListItem>
+
                     <ListItem>
                       <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                         <i className="fa fa-instagram" aria-hidden="true"/>

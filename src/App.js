@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header className="myHeader" title="Hari here.!" scroll>
+        <Header className="myHeader" title="Hari Here.!" scroll>
             <Navigation>
             <a href="/home"><div className="navBar">HOME</div></a>
                 <a href="/resume"><div className="navBar">ABOUT ME</div></a>
