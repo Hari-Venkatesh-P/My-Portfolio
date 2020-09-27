@@ -12,7 +12,7 @@ class LandingPage extends Component {
             <img src= {mypic} alt="avatar" className="avatar-img" />
             <div className="banner-text">
               <h1> Full Stack Developer</h1>
-              <h6>React JS ||  Angular || Node JS || Spring Boot ||  MongoDB </h6><br></br>
+              <h6>React JS ||  Angular || Node JS || Spring Boot ||  MongoDB || DLLs & WPF</h6><br></br>
             </div>
           </Cell>
         </Grid>
