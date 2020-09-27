@@ -83,7 +83,7 @@ font-family: 'Oswald';
 
 .contact-body {
   margin: auto;
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
   justify-content: center;
